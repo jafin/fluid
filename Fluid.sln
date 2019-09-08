@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fluid.MvcSample", "Fluid.Mv
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fluid.MvcViewEngine", "Fluid.MvcViewEngine\Fluid.MvcViewEngine.csproj", "{8387DE36-8B53-4437-B16F-40C6FD525A1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluid.Fuzz.Tests", "Fluid.Fuzz.Tests\Fluid.Fuzz.Tests.csproj", "{E94EEC3B-893F-4CA4-8095-F936D32BE832}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8387DE36-8B53-4437-B16F-40C6FD525A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8387DE36-8B53-4437-B16F-40C6FD525A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8387DE36-8B53-4437-B16F-40C6FD525A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E94EEC3B-893F-4CA4-8095-F936D32BE832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94EEC3B-893F-4CA4-8095-F936D32BE832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94EEC3B-893F-4CA4-8095-F936D32BE832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94EEC3B-893F-4CA4-8095-F936D32BE832}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
