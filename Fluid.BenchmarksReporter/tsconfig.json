@@ -4,9 +4,7 @@
         "module": "commonjs",
         "sourceMap": true,
         "rootDir": "src",
-        "outDir": "out",
-        "plugins": [
-            { "name" :"typescript-tslint-plugin"  }
-        ]
+        "outDir": "out"
+       
     }
 }

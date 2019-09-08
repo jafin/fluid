@@ -15,6 +15,7 @@
     "@types/glob": "^7.1.1",
     "@types/lodash": "^4.14.138",
     "@types/node": "^12.7.4",
+    "@typescript-eslint/eslint-plugin": "^2.1.0",
     "@typescript-eslint/parser": "^2.1.0",
     "chart.js": "^2.8.0",
     "chartjs-node-canvas": "^2.4.0",
@@ -22,7 +23,6 @@
     "glob": "^7.1.4",
     "glob-fs": "^0.1.7",
     "lodash": "^4.17.15",
-    "tslint": "^5.19.0",
     "typescript": "^3.6.2"
   }
 }

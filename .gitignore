@@ -288,3 +288,5 @@ __pycache__/
 *.xsd.cs
 Fluid.Benchmarks/BenchmarkDotNet.Artifacts
 *.orig
+/Fluid.BenchmarksReporter/out/*
+/Fluid.BenchmarksReporter/data/*
